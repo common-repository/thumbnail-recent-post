@@ -1,0 +1,9 @@
+ul {
+	margin:10px 0;
+}
+.pic {
+	float:left; margin-right:10px;
+}
+.clear {
+	clear:both;
+}
